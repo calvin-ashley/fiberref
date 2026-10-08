@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Editor / tooling
+.DS_Store
+*.pem
+*.tsbuildinfo
+CLAUDE_CONTEXT.md
+.claude/
+
+# Local env
+.env*.local
+
+# Legacy Expo artifacts (kept for reference, not built)
+.expo/
+web-build/
+expo-env.d.ts
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+.metro-health-check*
+/ios
+/android
+
+# Debug logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
