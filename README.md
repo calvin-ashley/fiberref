@@ -70,7 +70,7 @@ npm run preview
 
 ## Data
 
-All reference data lives in `src/data/` as typed JSON files — no database, no API. Each module has a co-located `types.ts` defining the schema. Adding or updating reference data means editing the JSON and redeploying.
+All reference data lives in `src/data/` as typed JSON files - no database, no API. Each module has a co-located `types.ts` defining the schema. Adding or updating reference data means editing the JSON and redeploying.
 
 ```
 src/data/
