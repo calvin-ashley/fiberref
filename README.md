@@ -1,6 +1,6 @@
 # FiberRef
 
-A fast, offline-capable reference tool for fiber optic field professionals — splicers, OSP technicians, and field supervisors. Built to be readable on a phone screen in a vault or on a pole, with no backend and no account required.
+A fast, offline-capable reference tool for fiber optic field professionals splicers, OSP technicians, and field supervisors. Built to be readable on a phone screen in a vault or on a pole, with no backend and no account required.
 
 Built by a fiber splicing supervisor to replace binders, PDFs, and memory work crews rely on in the field.
 
